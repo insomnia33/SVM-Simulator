@@ -1,4 +1,3 @@
-itertools
 pandas
 numpy
 plotly
